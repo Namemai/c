@@ -79,7 +79,7 @@ Emid = kb.getProfile().mid
 responsename5 = kb.getProfile().displayName
 
 
-kn = LineClient("yxr96997@zzrgg.com","mai06555mai")
+kn = LineClient("rty59194@zzrgg.com","mai06555mai")
 kn.log("Auth Token : " + str(kn.authToken))
 channel6 = LineChannel(kn)
 kn.log("Channel Access Token : " + str(channel6.channelAccessToken))
