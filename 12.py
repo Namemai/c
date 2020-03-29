@@ -28,33 +28,33 @@ channel = LineChannel(cl)
 cl.log("Channel Access Token : " + str(channel.channelAccessToken))
 
 
-ki = LineClient("vlq81196@zzrgg.com","mai06555mai")
+ki = LineClient("zwc26713@zzrgg.com","mai06555mai")
 ki.log("Auth Token : " + str(ki.authToken))
 channel1 = LineChannel(ki)
 ki.log("Channel Access Token : " + str(channel1.channelAccessToken))
 
 
-kk = LineClient("cpy76884@zzrgg.com","mai06555mai")
+kk = LineClient("qea36638@zzrgg.com","mai06555mai")
 kk.log("Auth Token : " + str(kk.authToken))
 channel2 = LineChannel(kk)
 kk.log("Channel Access Token : " + str(channel2.channelAccessToken))
 
 
-kc = LineClient("tvm12228@zzrgg.com","mai06555mai")
+kc = LineClient("ovg91836@zzrgg.com","mai06555mai")
 kc.log("Auth Token : " + str(kc.authToken))
 channel3 = LineChannel(kc)
 kc.log("Channel Access Token : " + str(channel3.channelAccessToken))
 
 
 
-km = LineClient("edo38479@zzrgg.com","mai06555mai")
+km = LineClient("pqd75472@zzrgg.com","mai06555mai")
 km.log("Auth Token : " + str(km.authToken))
 channel4 = LineChannel(km)
 km.log("Channel Access Token : " + str(channel4.channelAccessToken))
 
 
 
-kb = LineClient("zci09379@zzrgg.com","mai06555mai")
+kb = LineClient("glm97991@zzrgg.com","mai06555mai")
 kb.log("Auth Token : " + str(kb.authToken))
 channel5 = LineChannel(kb)
 kb.log("Channel Access Token : " + str(channel5.channelAccessToken))
